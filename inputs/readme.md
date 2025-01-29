@@ -1,1 +1,1 @@
-
+A análise de sentimentos com o Azure AI Language Studio é como treinar um programa para ler opiniões expressas em textos, identificando se são positivas, negativas ou neutras. Essa ferramenta é especialmente útil para empresas que querem entender o feedback de clientes sobre produtos e serviços. Ela interpreta bem as emoções em textos ao utilizar modelos de machine learning, ajudando na tomada de decisões e estratégias de marketing.
